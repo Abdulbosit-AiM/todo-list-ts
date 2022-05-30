@@ -1,8 +1,6 @@
-# New Project: To Do List using TypeScript React
+# New Project: To Do List using TypeScript React ✨
 
-> ✨ Bootstrapped with Create Snowpack App (CSA).
-
-## Available Scripts
+>  Available Scripts
 
 ### npm start
 
